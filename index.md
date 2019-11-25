@@ -59,7 +59,7 @@ schemadotorg:
 
 ---
 
-The source for this course webpage is [on github](https://github.com/GTPB/Web_course_template).
+The source for this course webpage is [in github](https://github.com/GTPB/Web_course_template).
 
 <br/>
 
