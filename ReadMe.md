@@ -1,13 +1,13 @@
-# GTPB Course Pages
+## GTPB Course Pages
 
-## Usage Instructions
+### Usage Instructions
 
 1. Create contents using .md files in the pages folder. Use normal markdown format for your page contents.
 2. The index.md page is the homepage for the website. Customise it as you would create a README.md file.
 3. If using pdf or images upload them to the assets folder.
 4. DO NOT erase or mess with any of the other folders and/or files without consulting with the organisation, as they are necessary for the website structure, layout and integrity.
 
-## Deployment instructions
+### Deployment instructions
 
 1. Edit the config.yml file to change the course name and url link.
 2. When ready, copy the contents in the master branch to the gh-pages branch.
@@ -33,6 +33,22 @@ The following co-authors contributed to the development of the training material
 This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/YEAR/COURSE_SHORT/), for further information about the course.
 
 --->
+
+#### Code of Conduct
+Please read the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for details on contributing and reusing the training material.
+
+#### License
+This project is licensed under CC-BY 4.0 - see the [License.md](License.md) for details.
+
+---
+
+#### Host & Co-Sponsor
+
+<a href="http://www.igc.gulbenkian.pt/"><img src="./assets/readme_img/Logo_IGC_2014.png" alt="Instituto Gulbenkian de Ciência" width="250px"></a>
+
+#### Contributors
+
+<a href="https://biodata.pt/"><img src="./assets/readme_img/BIoData_and_co-financiadores.png" alt="Instituto Gulbenkian de Ciência" width="500px"></a>
 
 ---
 
